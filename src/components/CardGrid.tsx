@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col, Card } from "react-bootstrap";
-import { cardData } from '../../data/cardData';
+import { cardData } from '../data/cardData';
 
 const CardGrid = () => {
   return (
