@@ -1,0 +1,99 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #ffe9f4;
+}
+
+.Container {
+  dispaly: flex;
+  flex-direction: row | column;
+  flex-wrap: wrap;
+  column-gap: 20px;
+}
+.fa {
+  padding: 10px;
+  font-size: 20px;
+  width: px;
+  text-align: center;
+  text-decoration: none;
+}
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  color: #3b5998;
+}
+.fa-github {
+  color: black;
+}
+.fa-envelope {
+  color: #06266e;
+}
+.fa-discord {
+  color: #9b59b6;
+}
+.fa-file {
+  color: #925551;
+}
+
+.photoofme {
+  padding-top: 20px; /* Adjust this value as needed */
+}
+
+.card {
+  border: none;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 6px 10px #c9a9a6;
+}
+
+.gradient-text {
+  background: linear-gradient(90deg, #4f46e5, #0a9e6d);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  display: inline-block;
+  position: realtive;
+}
+
+.blinking-cursor {
+  animation: blink 1s step-end infinite, pulse 2s ease-in-out infinite;
+  color: #000000;
+  margin-left: 2px;
+  position: realtive;
+}
+
+@keyframes blink {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+}
+.header {
+  display: flex;
+  align-items: center; /* Vertically center items in header */
+  justify-content: space-between; /* Pushes other header content to the right */
+  padding: 1rem;
+}
+
+.logo {
+  height: auto; /* Maintain aspect ratio */
+  max-height: 60px; /* Adjust based on your needs */
+  width: auto; /* Flexible width based on height */
+  max-width: 200px; /* Prevent logo from becoming too wide */
+}
+
+/* For responsive adjustments */
+@media (max-width: 768px) {
+  .logo {
+    max-height: 40px; /* Smaller logo on mobile */
+    max-width: 150px;
+  
