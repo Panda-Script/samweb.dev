@@ -83,18 +83,4 @@
   justify-content: space-between; /* Pushes other header content to the right */
   padding: 1rem;
 }
-
-.logo {
-  height: auto; /* Maintain aspect ratio */
-  max-height: 60px; /* Adjust based on your needs */
-  width: auto; /* Flexible width based on height */
-  max-width: 200px; /* Prevent logo from becoming too wide */
-}
-
-/* For responsive adjustments */
-@media (max-width: 768px) {
-  .logo {
-    max-height: 40px; /* Smaller logo on mobile */
-    max-width: 150px;
-  }
   
