@@ -22,7 +22,7 @@ export default function App() {
           <Col sm={8}>
             <Intro />
             <h1 className="text-center my-4">My Projects</h1>
-            <CardGrid cards={cardData} />
+            <CardGrid card={cardData} />
           </Col>
         </Row>
       </Container>
