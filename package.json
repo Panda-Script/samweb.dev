@@ -35,3 +35,10 @@
     "not op_mini all"
   ]
 }
+{
+  "homepage": "https://trashpanda20.github.io/<repo-name>",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
+}
