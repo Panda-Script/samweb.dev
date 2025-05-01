@@ -36,7 +36,7 @@
   ]
 },
 {
-  "homepage": "https://trashpanda20.github.io/<samweb.dev>",
+  "homepage": "https://trashpanda20.github.io/samweb.dev/blob/main/public/index.html",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
