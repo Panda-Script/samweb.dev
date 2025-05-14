@@ -14,6 +14,8 @@ export default function App() {
   return (
     <div className="App">
       <Header />
+      <h1 className="text-center my-4">My Projects</h1>
+      <CardGrid  />
       <Container>
         <Row>
           <Col sm={4}>
@@ -21,8 +23,7 @@ export default function App() {
           </Col>
           <Col sm={8}>
             <Intro />
-            <h1 className="text-center my-4">My Projects</h1>
-            <CardGrid  />
+            
           </Col>
         </Row>
       </Container>
