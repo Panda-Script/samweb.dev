@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/samweb.dev/static/css/main.6702c8d9.css",
-    "main.js": "/samweb.dev/static/js/main.2bf60f32.js",
+    "main.css": "/samweb.dev/static/css/main.3d01b6e0.css",
+    "main.js": "/samweb.dev/static/js/main.4902fe26.js",
     "static/media/MySQLDatabase.png": "/samweb.dev/static/media/MySQLDatabase.89a78463bf2406b68af5.png",
-    "static/media/me.jpg": "/samweb.dev/static/media/me.2366b207d1aa1e4e2a55.jpg",
+    "static/media/me.jpg": "/samweb.dev/static/media/me.0bb15afe191ce899d870.jpg",
     "static/media/mainmenutextbased.png": "/samweb.dev/static/media/mainmenutextbased.55c418d73544d43a9a76.png",
     "static/media/spells.png": "/samweb.dev/static/media/spells.1e9467df549e523f2776.png",
     "index.html": "/samweb.dev/index.html",
-    "main.6702c8d9.css.map": "/samweb.dev/static/css/main.6702c8d9.css.map",
-    "main.2bf60f32.js.map": "/samweb.dev/static/js/main.2bf60f32.js.map"
+    "main.3d01b6e0.css.map": "/samweb.dev/static/css/main.3d01b6e0.css.map",
+    "main.4902fe26.js.map": "/samweb.dev/static/js/main.4902fe26.js.map"
   },
   "entrypoints": [
-    "static/css/main.6702c8d9.css",
-    "static/js/main.2bf60f32.js"
+    "static/css/main.3d01b6e0.css",
+    "static/js/main.4902fe26.js"
   ]
 }
