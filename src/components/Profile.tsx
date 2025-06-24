@@ -1,7 +1,7 @@
 import React from "react";
 import { Image } from "react-bootstrap";
 import me from "../images/me.jpg";
-import resume from "../images/SamWoodall_Resume.pdf"
+import resume from "../images/SamWoodall_Resume.pdf";
 
 const Profile = () => {
   return (
