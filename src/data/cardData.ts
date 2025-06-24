@@ -41,23 +41,23 @@ export const cardData = [
     links: [
       {
         label: "Home Page Code",
-        url: "https://github.com/trashpanda20/samweb.dev/blob/main/anc-code/homepg.htm",
+        url: "https://github.com/Panda-Script/samweb.dev-pasts/blob/main/anc-code/homepg.htm",
       },
       {
         label: "Info Page Code",
-        url: "https://github.com/trashpanda20/samweb.dev/blob/main/anc-code/infopg.htm",
+        url: "https://github.com/Panda-Script/samweb.dev-pasts/blob/main/anc-code/infopg.htm",
       },
       {
         label: "Blog Page Code",
-        url: "https://github.com/trashpanda20/samweb.dev/blob/main/anc-code/blog.htm",
+        url: "https://github.com/Panda-Script/samweb.dev-pasts/blob/main/anc-code/blog.htm",
       },
       {
         label: "Gallery Page Code",
-        url: "https://github.com/trashpanda20/samweb.dev/blob/main/anc-code/gallery.htm",
+        url: "https://github.com/Panda-Script/samweb.dev-pasts/blob/main/anc-code/gallery.htm",
       },
       {
         label: "About Me Page Code",
-        url: "https://github.com/trashpanda20/samweb.dev/blob/main/anc-code/aboutme.htm",
+        url: "https://github.com/Panda-Script/samweb.dev-pasts/blob/main/anc-code/aboutme.htm",
       },
     ],
   },
@@ -67,15 +67,15 @@ export const cardData = [
     links: [
       {
         label: "Book Club Home Page Code",
-        url: "https://github.com/trashpanda20/samweb.dev/blob/main/anc-code/Books1.htm",
+        url: "https://github.com/Panda-Script/samweb.dev-pasts/blob/main/anc-code/Books1.htm",
       },
       {
         label: "Thriller Page Code",
-        url: "https://github.com/trashpanda20/samweb.dev/blob/main/anc-code/Thriller.htm",
+        url: "https://github.com/Panda-Script/samweb.dev-pasts/blob/main/anc-code/Thriller.htm",
       },
       {
         label: "Historical Fiction Page Code",
-        url: "https://github.com/trashpanda20/samweb.dev/blob/main/anc-code/HisFict.htm",
+        url: "https://github.com/Panda-Script/samweb.dev-pasts/blob/main/anc-code/HisFict.htm",
       },
     ],
   },
