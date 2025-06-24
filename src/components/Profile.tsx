@@ -1,6 +1,7 @@
 import React from "react";
 import { Image } from "react-bootstrap";
 import me from "../images/me.jpg";
+import resume from "../images/SamWoodall_Resume.pdf"
 
 const Profile = () => {
   return (
@@ -11,7 +12,7 @@ const Profile = () => {
       </div>
       <div>
         <a
-          href="https://github.com/trashpanda20"
+          href="https://github.com/Panda-Script"
           target="_blank"
           rel="noopener noreferrer"
           className="fa fa-github"
@@ -22,7 +23,7 @@ const Profile = () => {
           className="fa fa-envelope"
         ></a>
         <a
-          href="resume.pdf"
+          href="resume"
           rel="noopener noreferrer"
           className="fa fa-file"
         ></a>
