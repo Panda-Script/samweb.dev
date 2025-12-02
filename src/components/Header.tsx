@@ -1,4 +1,5 @@
 import React from "react";
+import logo from "../images/error202.jpg";
 import "../styles.css";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
@@ -11,8 +12,6 @@ const Header = () => {
         <Row className="align-items-center">
           <Col xs={9} sm={10} md={10} lg={11} className="header-content">
             <p></p>
-            <h1>Sam Woodall</h1>
-            <p>Code &bull; Create &bull; Collaborate</p>
             <div className="code-snippet">
               <span className="gradient-text">
                 {" "}
