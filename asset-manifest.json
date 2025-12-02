@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/samweb.dev/static/css/main.abe7e3bd.css",
-    "main.js": "/samweb.dev/static/js/main.edcaa2f2.js",
+    "main.js": "/samweb.dev/static/js/main.0406ba50.js",
     "static/media/MySQLDatabase.png": "/samweb.dev/static/media/MySQLDatabase.89a78463bf2406b68af5.png",
     "static/media/me.jpg": "/samweb.dev/static/media/me.0bb15afe191ce899d870.jpg",
     "static/media/mainmenutextbased.png": "/samweb.dev/static/media/mainmenutextbased.55c418d73544d43a9a76.png",
     "static/media/spells.png": "/samweb.dev/static/media/spells.1e9467df549e523f2776.png",
     "index.html": "/samweb.dev/index.html",
     "main.abe7e3bd.css.map": "/samweb.dev/static/css/main.abe7e3bd.css.map",
-    "main.edcaa2f2.js.map": "/samweb.dev/static/js/main.edcaa2f2.js.map"
+    "main.0406ba50.js.map": "/samweb.dev/static/js/main.0406ba50.js.map"
   },
   "entrypoints": [
     "static/css/main.abe7e3bd.css",
-    "static/js/main.edcaa2f2.js"
+    "static/js/main.0406ba50.js"
   ]
 }
