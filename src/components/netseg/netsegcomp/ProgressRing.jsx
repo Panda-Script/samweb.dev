@@ -1,4 +1,4 @@
-// src/components/netseg/components/ProgressRing.jsx
+
 import React from "react";
 
 const ProgressRing = ({ progress, size = 120, strokeWidth = 10, children }) => {
@@ -30,5 +30,6 @@ const ProgressRing = ({ progress, size = 120, strokeWidth = 10, children }) => {
     </div>
   );
 };
+
 
 export default ProgressRing;
