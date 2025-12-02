@@ -1,4 +1,4 @@
-// src/components/netseg/components/QuizQuestion.jsx
+
 import React from "react";
 
 const QuizQuestion = ({
@@ -67,5 +67,6 @@ const QuizQuestion = ({
     </div>
   );
 };
+
 
 export default QuizQuestion;
