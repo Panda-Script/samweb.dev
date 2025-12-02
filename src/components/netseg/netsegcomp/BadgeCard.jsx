@@ -1,4 +1,4 @@
-// src/components/netseg/components/BadgeCard.jsx
+
 import React from "react";
 
 const BadgeCard = ({ badge, isEarned }) => {
@@ -56,5 +56,6 @@ const BadgeCard = ({ badge, isEarned }) => {
     </div>
   );
 };
+
 
 export default BadgeCard;
