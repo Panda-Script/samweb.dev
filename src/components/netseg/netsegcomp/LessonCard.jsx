@@ -1,4 +1,4 @@
-// src/components/netseg/components/LessonCard.jsx
+
 import React from "react";
 import { Link } from "react-router-dom";
 
@@ -62,5 +62,6 @@ const LessonCard = ({ lesson, isCompleted }) => {
     </div>
   );
 };
+
 
 export default LessonCard;
