@@ -1,4 +1,4 @@
-// src/components/netseg/components/StreakCounter.jsx
+
 import React from "react";
 
 const StreakCounter = ({ streak }) => {
@@ -12,3 +12,4 @@ const StreakCounter = ({ streak }) => {
 };
 
 export default StreakCounter;
+
