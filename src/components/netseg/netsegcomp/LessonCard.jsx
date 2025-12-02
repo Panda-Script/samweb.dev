@@ -3,37 +3,11 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 const LessonCard = ({ lesson, isCompleted }) => {
-  const getIcon = (iconName) => {
-    switch (iconName) {
-      case "book":
-        return "📚";
-      case "layers":
-        return "📐";
-      case "design":
-        return "🎨";
-      case "implementation":
-        return "⚙️";
-      case "testing":
-        return "🧪";
-      case "shield":
-        return "🛡️";
-      case "micro":
-        return "🔬";
-      case "compliance":
-        return "📋";
-      case "monitoring":
-        return "📊";
-      case "case-study":
-        return "📖";
-      default:
-        return "📘";
-    }
-  };
+  
 
   return (
     <div className={`lesson-card ${isCompleted ? "completed" : ""}`}>
       <div className="lesson-header">
-        <div className="lesson-icon">{getIcon(lesson.icon)}</div>
         <div className="lesson-meta">
           <span className="lesson-number">Lesson {lesson.order}</span>
           <span className="lesson-duration">{lesson.duration} min</span>
@@ -65,3 +39,4 @@ const LessonCard = ({ lesson, isCompleted }) => {
 
 
 export default LessonCard;
+
